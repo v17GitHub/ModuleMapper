@@ -9,4 +9,8 @@ ModuleMapper is an application which allows you to return a binary as a byte arr
 - Windows 8 (32-Bit, 64-Bit)
 - Windows 7 (32-Bit, 64-Bit)
 
-# Test1
+# FAQ
+
+(Q) Dummy
+
+(A) Dummy2
