@@ -14,3 +14,11 @@ ModuleMapper is an application which allows you to return a binary as a byte arr
 (Q) Dummy
 
 (A) Dummy2
+
+# Setup Guide
+
+1) Label1
+2) Label2
+3) Label3
+4) Label4
+
