@@ -15,10 +15,12 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 (A) Dummy2
 
-# Setup Guide
+# How To Use
 
 1) Label1
 2) Label2
 3) Label3
 4) Label4
+
+# Installation Guide
 
