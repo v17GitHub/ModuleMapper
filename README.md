@@ -1,6 +1,6 @@
 # ModuleMapper
 
-A simple and safe way of loading binaries as bytes in processes.
+ModuleMapper is an application which allows you to return a binary as a byte array and load that via ManualMapping into your selected process choice.
 
 # Supported Operating Systems
 
