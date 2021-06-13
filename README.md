@@ -9,9 +9,9 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 - Windows 8 (32-Bit, 64-Bit)
 - Windows 7 (32-Bit, 64-Bit)
 
-# FAQ
+# F.A.Q.
 
-(Q) Dummy
+(Q) Is this a virus or 
 
 (A) Dummy2
 
