@@ -45,8 +45,9 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 1) Download the latest build of the executable at: https://github.com/v17GitHub/ModuleMapper/blob/main/Build/LatestBuild.exe
 2) Place the executable file anywhere on your computer and run it. NOTE: The file may get detected as malware and or a virus, in this instance just disable your anti-virus or have an exception towards the executable.
-3) Label3
-4) Label4
+3) Type in your process name (without .exe) which you are going to map the image into.
+4) Press the 'Select file' button and select the dll file which you chose to stream into memory.
+5) Finally, if the dll exists in the selected path and the process you selected is running, simply press 'Map Image Into Memory' and you will be prompted with a successful dialog if you have done everything correctly.
 
 # Installation Guide
 
