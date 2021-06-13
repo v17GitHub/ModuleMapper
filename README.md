@@ -36,7 +36,7 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 # How To Use
 
-1) Label1
+1) Download the latest build of the executable at: https://github.com/v17GitHub/ModuleMapper/blob/main/Build/LatestBuild.exe
 2) Label2
 3) Label3
 4) Label4
