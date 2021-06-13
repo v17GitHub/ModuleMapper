@@ -64,3 +64,7 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 1) Download the latest build of the executable at: https://github.com/v17GitHub/ModuleMapper/blob/main/Build/LatestBuild.exe
 2) Place the executable file anywhere on your computer and run it. NOTE: The file may get detected as malware and or a virus, in this instance just disable your anti-virus or have an exception towards the executable.
 
+# Contact Information & Issues
+
+Discord: v17#3611
+Issues are able to be made here: https://github.com/v17GitHub/ModuleMapper/issues
