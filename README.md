@@ -47,6 +47,12 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 (A) This occurs purposely and is not to make the program look weird nor funny. This is done to take another simple step into making builds more secure and unique to ensure each individual person have as much of a non-identical executable as possible.
 
+
+(Q) Is this undetected and can I use this with cheat dlls?
+
+
+(A) It is entirely dependent on the Anti-Cheat you are up against. Anti-Cheats such as VAC and FairFight are easily able to be bypassed, although make sure to keep in mind that because this injection is utilizing ManualMap which uses WriteProcessMemory, this means that an Anti-Cheat can hook this function and if it is triggered automate a ban or suspension. Next, you are 100% able to load cheat dlls as long as they are able to stably load with this injection method.
+
 # How To Use
 
 1) Type in your process name (without .exe) which you are going to map the image into.
