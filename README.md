@@ -45,7 +45,7 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 (Q) Why is the program window title and program name changed into scrambled characters?
 
 
-(A) This occurs purposely and is not to make the program look weird or funny. This is done to take another simple step into making builds more secure and unique to make each individual person have as non-identical executable.
+(A) This occurs purposely and is not to make the program look weird nor funny. This is done to take another simple step into making builds more secure and unique to ensure each individual person have as much of a non-identical executable as possible.
 
 # How To Use
 
