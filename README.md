@@ -41,6 +41,12 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 (A) The procedure is relatively simple to understand. You select a module and then post-injection the bytes of the file will be read and then streamed into the process you wish to load the buffer (bytes) into.  
 
+
+(Q) Why is the program window title and program name changed into scrambled characters?
+
+
+(A) This occurs purposely and is not to make the program look weird or funny. This is done to take another simple step into making builds more secure and unique to make each individual person have as non-identical executable.
+
 # How To Use
 
 1) Type in your process name (without .exe) which you are going to map the image into.
