@@ -13,7 +13,7 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 - Process Selection
 - Module Selection
-- Map Image Into Memory (Load)
+- Map Image Into Memory (Inject)
 - Advanced procedures are automated
 
 # F.A.Q.
