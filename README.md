@@ -67,4 +67,5 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 # Contact Information & Issues
 
 Discord: v17#3611
+
 Issues are able to be made here: https://github.com/v17GitHub/ModuleMapper/issues
