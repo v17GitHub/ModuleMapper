@@ -22,6 +22,12 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 (A) ModuleMapper was created in C# with the .NET Framework of 4.7.2
 
+
+(Q) Why is ModuleMapper interacting with the internet?
+
+
+(A) The only time that MM has any connections towards the internet at all is when you check for updates in the credits Form. The reason it connects with the internet is to compare your version with the latest version to determine if you are using an outdated build.
+
 # How To Use
 
 1) Label1
