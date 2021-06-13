@@ -11,9 +11,13 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 
 # F.A.Q.
 
-(Q) Is this a virus or 
+(Q) Is this a virus or in any way malicious?
 
-(A) Dummy2
+(A) No! ModuleMapper is 100% clean and contains no code which will negatively affect performance towards your operating system.
+
+(Q) What language was this made in?
+
+(A) ModuleMapper was created in C# with the .NET Framework of 4.7.2
 
 # How To Use
 
