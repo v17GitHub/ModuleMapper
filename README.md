@@ -1,4 +1,4 @@
-# ModuleMapper
+# Description
 
 ModuleMapper is an application which allows you to read a binary as a byte array and load the byte array via ManualMapping into your selected process choice.
 
