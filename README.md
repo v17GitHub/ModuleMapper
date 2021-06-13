@@ -26,7 +26,13 @@ ModuleMapper is an application which allows you to read a binary as a byte array
 (Q) Why is ModuleMapper interacting with the internet?
 
 
-(A) The only time that MM has any connections towards the internet at all is when you check for updates in the credits Form. The reason it connects with the internet is to compare your version with the latest version to determine if you are using an outdated build.
+(A) The only time that MM has any connections towards the internet at all is when you check for updates in the credits Form. The reason it connects with the internet is to compare your version with the latest version to determine if you are using an outdated build or not.
+
+
+(Q) How does the injection process work?
+
+
+(A) The procedure is relatively simple to understand. Firstly, you select a module and then post-injection the bytes of the file will be read and then streamed into the process you wish to load the buffer (bytes) into.  
 
 # How To Use
 
